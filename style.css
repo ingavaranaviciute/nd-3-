@@ -1,0 +1,37 @@
+
+div.container{
+    border: 1px solid grey;
+    width: 600px;
+    margin: auto;
+}
+div.header{
+    background-color: darkslategrey;
+    text-align: center;
+    color:white;
+    padding: 30px;
+}
+div.lorem_ipsum{
+    float: left;
+    border-left: solid;
+    border-width: 1px;
+    width: 419px;
+    padding: 42px 20px 20px;
+    text-align: justify;
+}
+footer{
+    clear: both;
+    background-color: darkslategrey;
+    text-align: center;
+    color:white;
+    padding: 10px;
+}
+nav{
+    float: left;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+}
+.last_paragraph{
+    margin-bottom: 0;
+}
