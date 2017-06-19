@@ -5,7 +5,7 @@ div.container{
     margin: auto;
 }
 div.header{
-    background-color: darkslategrey;
+    background-color: red;
     text-align: center;
     color:white;
     padding: 30px;
